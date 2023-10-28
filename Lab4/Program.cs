@@ -3,4 +3,7 @@
 using Lab4;
 
 Console.WriteLine("Завдання 1:");
-ExtendedEuclideanAlgorithm.Main();
+ExtendedEuclideanAlgorithm.Demo();
+
+Console.WriteLine("\nЗавдання 2:");
+Lab4_2.Demo();

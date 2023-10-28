@@ -5,7 +5,7 @@ namespace Lab4;
 //   де ax+by = d. Протестити на прикладі  a=612 і b=342.
 class ExtendedEuclideanAlgorithm
 {
-    public static void Main()
+    public static void Demo()
     {
         const int a = 612;
         const int b = 342;
