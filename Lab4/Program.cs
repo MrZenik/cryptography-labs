@@ -10,3 +10,6 @@ Lab4_2.Demo();
 
 Console.WriteLine("\nЗавдання 3:");
 EulerFunctionCalculator.Demo(10);
+
+Console.WriteLine("\nЗавдання 4:");
+InverseElementCalculator.Demo();

@@ -1,5 +1,10 @@
 namespace Lab4;
 
+/*
+ * Завдання 3
+ * 3. Реалізувати у вигляді функції phi(m) обчислення значення функції Ейлера для заданого m
+ *    (https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+ */
 public class EulerFunctionCalculator
 {
     static int EulerPhi(int m)
