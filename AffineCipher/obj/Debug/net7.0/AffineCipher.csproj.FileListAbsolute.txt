@@ -1,0 +1,15 @@
+/home/user/un/cryptography-labs/AffineCipher/bin/Debug/net7.0/AffineCipher
+/home/user/un/cryptography-labs/AffineCipher/bin/Debug/net7.0/AffineCipher.deps.json
+/home/user/un/cryptography-labs/AffineCipher/bin/Debug/net7.0/AffineCipher.runtimeconfig.json
+/home/user/un/cryptography-labs/AffineCipher/bin/Debug/net7.0/AffineCipher.dll
+/home/user/un/cryptography-labs/AffineCipher/bin/Debug/net7.0/AffineCipher.pdb
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.csproj.AssemblyReference.cache
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.AssemblyInfoInputs.cache
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.AssemblyInfo.cs
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.csproj.CoreCompileInputs.cache
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.dll
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/refint/AffineCipher.dll
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.pdb
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/AffineCipher.genruntimeconfig.cache
+/home/user/un/cryptography-labs/AffineCipher/obj/Debug/net7.0/ref/AffineCipher.dll
