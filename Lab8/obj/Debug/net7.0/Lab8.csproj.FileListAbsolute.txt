@@ -1,0 +1,15 @@
+/home/user/un/cryptography-labs/Lab8/bin/Debug/net7.0/Lab8
+/home/user/un/cryptography-labs/Lab8/bin/Debug/net7.0/Lab8.deps.json
+/home/user/un/cryptography-labs/Lab8/bin/Debug/net7.0/Lab8.runtimeconfig.json
+/home/user/un/cryptography-labs/Lab8/bin/Debug/net7.0/Lab8.dll
+/home/user/un/cryptography-labs/Lab8/bin/Debug/net7.0/Lab8.pdb
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.csproj.AssemblyReference.cache
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.AssemblyInfoInputs.cache
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.AssemblyInfo.cs
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.csproj.CoreCompileInputs.cache
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.dll
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/refint/Lab8.dll
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.pdb
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/Lab8.genruntimeconfig.cache
+/home/user/un/cryptography-labs/Lab8/obj/Debug/net7.0/ref/Lab8.dll

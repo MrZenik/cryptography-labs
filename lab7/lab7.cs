@@ -3,7 +3,7 @@
 using lab7.task1;
 using lab7.task2;
 
-Console.WriteLine("Лабораторна 6");
+Console.WriteLine("Лабораторна 7");
 Console.WriteLine("Завдання 1");
 PrimalityTester.Demo();
 
