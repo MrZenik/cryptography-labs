@@ -1,0 +1,15 @@
+/home/user/un/cryptography-labs/lab7/bin/Debug/net7.0/lab7
+/home/user/un/cryptography-labs/lab7/bin/Debug/net7.0/lab7.deps.json
+/home/user/un/cryptography-labs/lab7/bin/Debug/net7.0/lab7.runtimeconfig.json
+/home/user/un/cryptography-labs/lab7/bin/Debug/net7.0/lab7.dll
+/home/user/un/cryptography-labs/lab7/bin/Debug/net7.0/lab7.pdb
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.csproj.AssemblyReference.cache
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.AssemblyInfoInputs.cache
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.AssemblyInfo.cs
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.csproj.CoreCompileInputs.cache
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.dll
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/refint/lab7.dll
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.pdb
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/lab7.genruntimeconfig.cache
+/home/user/un/cryptography-labs/lab7/obj/Debug/net7.0/ref/lab7.dll
